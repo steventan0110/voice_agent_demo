@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+out/
+
+# local environment and credentials
+.env
+.env.local
+.env.*.local
+
+# tooling
+*.tsbuildinfo
+.eslintcache
+
+# OS
+.DS_Store

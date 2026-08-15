@@ -1,0 +1,4 @@
+allowBuilds:
+  # The optional native binding is already shipped as a platform package;
+  # this prototype does not need its postinstall downloader.
+  unrs-resolver: false
